@@ -6,8 +6,7 @@
   ### Votre partenaire pour héberger, incuber et gérer vos projets
   
   [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://smc-network.net)
-  [![Status](https://img.shields.io/badge/Status-Active-success)](https://smc-network.com)
-  [![License](https://img.shields.io/badge/License-Proprietary-blue)]()
+  [![Status](https://img.shields.io/badge/Status-Active-success)](https://smc-network.net/status)
   
 </div>
 
