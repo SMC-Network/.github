@@ -1,9 +1,9 @@
 # 🚀 SMC Network
 
 <div align="center">
-  <img src="assets/logo.png" alt="SMC Network Logo" width="200"/>
+  <img src="https://smc-network.net/logo" alt="SMC Network Logo" width="200"/>
   
-  ### Votre partenaire pour héberger, incuber et gérer vos projets innovants
+  ### Votre partenaire pour héberger, incuber et gérer vos projets
   
   [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://smc-network.net)
   [![Status](https://img.shields.io/badge/Status-Active-success)](https://smc-network.com)
